@@ -1,8 +1,14 @@
-# React + Vite
+# Contador con Zustand en React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##### Este proyecto es un ejemplo de cómo crear un contador con Zustand en React, manipulado el estado de ciertas variables, como contador, y mostrarlo en pantalla.
 
-Currently, two official plugins are available:
+![](https://raw.githubusercontent.com/urian121/imagenes-proyectos-github/master/contador-con-zustand-en-react.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Expresiones de Gratitud 🎁
+
+    Comenta a otros sobre este proyecto 📢
+    Invita una cerveza 🍺 o un café ☕
+    Paypal iamdeveloper86@gmail.com
+    Da las gracias públicamente 🤓.
+
+## No olvides SUSCRIBIRTE 👍

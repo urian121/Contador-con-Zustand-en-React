@@ -13,8 +13,12 @@ export const Counter = () => {
     <div>
       <h1>Contador: {count}</h1>
       <button onClick={increment}>Incrementar</button>
-      <button onClick={decrement}>Decrementar</button>
-      <button onClick={reset}>Reiniciar</button>
+      <button onClick={decrement} disabled={count === 0}>
+        Decrementar
+      </button>
+      <button onClick={reset} disabled={count === 0}>
+        Reiniciar
+      </button>
     </div>
   );
 };
